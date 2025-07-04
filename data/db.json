@@ -1,0 +1,63 @@
+[
+  {
+    "email": "vigneshsm2003@gmail.com",
+    "wishlist": [
+      {
+        "id": "1",
+        "wishlistName": "Wishlist 1",
+        "updatedDate": "02/07/2025",
+        "products": [
+          {
+            "product_name": "Wireless Headphone",
+            "product_id": "pro001",
+            "product_price": "$39.99",
+            "product_image": "/Images/image1.png",
+            "addedBy": [
+              "patrik@gmail.com",
+              "rakesh@gmail.com"
+            ]
+          },
+          {
+            "product_name": "Kids Denim Jacket",
+            "product_id": "pro3",
+            "product_price": "$25",
+            "product_image": "/Images/image3.png",
+            "addedBy": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "email": "vigneshsm@gmail.com",
+    "wishlist": [
+      {
+        "id": "1",
+        "wishlistName": "Wishlist 5",
+        "updatedDate": "02/07/2025",
+        "products": [
+          {
+            "product_name": "Wireless Headphone",
+            "product_id": "pro001",
+            "product_price": "$39.99",
+            "product_image": "/Images/image1.png",
+            "addedBy": [
+              "patrik@gmail.com",
+              "rakesh@gmail.com",
+              "vigneshsm2003@gmail.com"
+            ]
+          },
+          {
+            "product_name": "Kids Denim Jacket",
+            "product_id": "pro3",
+            "product_price": "$25",
+            "product_image": "/Images/image3.png",
+            "addedBy": [
+              "vigneshsm2003@gmail.com"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
