@@ -5,8 +5,11 @@ A MERN stack-based full stack application that allows users to create, manage, a
 🔧 Tech Stack
 
 Frontend: React.js, Bootstrap, React Router, Clerk (for Auth)
+
 Backend: Node.js, Express.js
+
 Database: MongoDB (via Mongoose)
+
 Authentication: Clerk.dev
 
 🛠️ Setup Instructions
