@@ -19,14 +19,6 @@ Authentication: Clerk.dev
 🛠️ Setup Instructions
 
 
-🔐 Clerk Setup
-
-
-Create a project at Clerk.dev
-
-Replace the ClerkProvider publishable key in App.jsx with yours
-
-
 ▶️ To Run Backend
 
 
