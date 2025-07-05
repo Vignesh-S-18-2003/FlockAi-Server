@@ -16,7 +16,11 @@ Create a project at Clerk.dev
 Replace the ClerkProvider publishable key in App.jsx with yours
 
 
-▶️ To Run Frontend
-git clone https://github.com/Vignesh-S-18-2003/FlockAi-Client
+▶️ To Run Backend
+
+git clone https://github.com/Vignesh-S-18-2003/FlockAi-Server
 npm install
-npm run dev
+nodemon index.js
+
+
+Make sure MongoDB is running locally or use Atlas and update your MongoDB URI in .env.
